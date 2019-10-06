@@ -1,0 +1,8 @@
+Pymaceuticals Analysis
+Seth Pruitt
+
+1) Capomulin routinely out-performed both the placebo and the other two analyzed drugs, Infubinol and Ketapril.
+
+2) A majority of drugs have no significant difference vs the placebo.
+
+3) Plotting the other drugs would likely have provided different outcomes to analyze. Ramicane, for example, was able to routinely outperform Capomulin.
